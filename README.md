@@ -8,4 +8,4 @@ Set of scripts for analyzing phage display NGS data.
 5. Calculate the ranking score for the compared data from Step 4.
 6. Cluster the sequences and visulaize the result.
 
-Voila! You get your hits!
+**_Voila!_** You get your hits!
