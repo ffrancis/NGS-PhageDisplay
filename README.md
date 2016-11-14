@@ -8,4 +8,6 @@ Set of scripts for analyzing phage display NGS data.
 5. Calculate the ranking score for the compared data from Step 4.
 6. Cluster the sequences and visulaize the result.
 
+-[Visualize 'Cluster Scoress across different conditions](https://plot.ly/~ccchang0111/148/?share_key=opqa7axxTHYZYexL0LhbRx)
+
 **_Voila!_** You get your hits!
