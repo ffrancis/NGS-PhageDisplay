@@ -1,5 +1,5 @@
 # NGS-PhageDisplay
-[Use machine learning to predict protein-target interaction based on amino acid position.]
+[Use machine learning to predict protein-target interaction based on amino acid position.](https://github.com/ccchang0111/NGS-PhageDisplay/blob/master/Peptide_binding_prediction_3G-Demo.ipynb)
 
 Also provided set of scripts for analyzing phage display NGS data:
 
