@@ -1,7 +1,7 @@
 # NGS-PhageDisplay
 Two main sections:
 
-1. [Predicting protein-target interaction from amino acid positions.](https://github.com/ccchang0111/NGS-PhageDisplay/blob/master/Peptide_binding_prediction_3G-Demo.ipynb)
+1. [Speed Up Antibody Drug Discovery Process via Machine Learning.](https://github.com/ccchang0111/NGS-PhageDisplay/blob/master/ML_PhageDisplay-Demo.ipynb)
 
 2. Also provided set of scripts for analyzing phage display NGS data:
   
@@ -19,4 +19,6 @@ Two main sections:
 
 -[Visualize 'Cluster Scores' across different conditions](https://plot.ly/~ccchang0111/148/?share_key=opqa7axxTHYZYexL0LhbRx)
 
-**_Voila!_** You get your hits!
+**_Voila!_** You get your hits! But that is not enough. We can do more by applying machine learning to the massive NGS data and identify hidden patterns in each experiment.
+
+[Speed Up Antibody Drug Discovery Process via Machine Learning.](https://github.com/ccchang0111/NGS-PhageDisplay/blob/master/ML_PhageDisplay-Demo.ipynb
