@@ -19,6 +19,4 @@ Two main sections:
 
 -[Visualize 'Cluster Scores' across different conditions](https://plot.ly/~ccchang0111/148/?share_key=opqa7axxTHYZYexL0LhbRx)
 
-**_Voila!_** You get your hits! But that is not enough. We can do more by applying machine learning to the massive NGS data and identify hidden patterns in each experiment.
-
-[Speed Up Antibody Drug Discovery Process via Machine Learning.](https://github.com/ccchang0111/NGS-PhageDisplay/blob/master/ML_PhageDisplay-Demo.ipynb
+**_Voila!_** You get your hits! But that is not enough. We can do more by applying [machine learning](https://github.com/ccchang0111/NGS-PhageDisplay/blob/master/ML_PhageDisplay-Demo.ipynb) to the massive NGS data and identify hidden patterns in each experiment.
